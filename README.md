@@ -6,7 +6,9 @@ repository where I archive all my things
 
 [Puyo Puyo VS 2](https://puyovs.com) is a clone of the puzzle game "Puyo Puyo".
 
-## SpongeBob SquarePants
+## Characters
+
+### SpongeBob SquarePants
 
 ![SpongeBob](https://github.com/J1Github/thegreateststuffarchivething/raw/main/images/spongebob.png)
 
@@ -14,7 +16,7 @@ repository where I archive all my things
 
 SpongeBob SquarePants is the protagonist of the American animated television series of the same name. Voiced by Tom Kenny, he is characterized by his optimism and childlike attitude. SpongeBob is commonly seen hanging out with his friend Patrick Star, working at the Krusty Krab, and attending Mrs. Puff's Boating School.
 
-## Patrick Star
+### Patrick Star
 
 ![Patrick](https://github.com/J1Github/thegreateststuffarchivething/raw/12485c772fff8412921238c1528088e947b15d98/images/patrick.png)
 
