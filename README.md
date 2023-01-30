@@ -4,9 +4,11 @@ repository where I archive all my things
 
 # Puyo Puyo VS 2
 
-[Puyo Puyo VS 2](https://puyovs.com) is a clone of the puzzle game "Puyo Puyo".
+[Puyo Puyo VS 2](https://puyovs.com) is a customizable clone of the puzzle game "Puyo Puyo".
 
 ## Characters
+
+Extract the directory to /Users/Characters.
 
 ### SpongeBob SquarePants
 
