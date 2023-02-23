@@ -45,3 +45,13 @@ Although his name has the word "squid" in it and he has only six tentacles, Squi
 [Download](https://github.com/J1Github/thegreateststuffarchivething/raw/main/puyopuyovs/sandy/sandypuyovs.zip)
 
 Sandy is a close friend of SpongeBob SquarePants. She is a proud Texan and speaks in a stereotypical Southern drawl. In order to live underwater, Sandy resides in a bubble-like dome and wears an atmospheric diving suit when outside her house. Inside the treedome, her normal attire consists of a green and purple bikini. Conversely, as revealed in Tea at the Treedome, other characters must wear "water helmets" with opposite functionality when visiting her house. Sandy possesses extraordinary scientific skills such as the ability to construct complex inventions. Sandy is shown to possess a number of tough, tomboyish character traits and interests; she is skilled at karate, engages in bodybuilding, and is a rodeo champion. She is also a close friend of Patrick Star, SpongeBob's best friend and neighbor, though she sometimes gets annoyed by him.
+
+### Mr. Krabs
+
+![Mr. Krabs](https://github.com/J1Github/thegreateststuffarchivething/raw/main/images/krabstemporaly.png)
+
+{UNDER CONTRUCTION}
+
+Eugene Harold Krabs, better known as simply Mr. Krabs, is a fictional character in the American animated television series SpongeBob SquarePants. He is voiced by actor Clancy Brown and first appeared in the series' pilot episode "Help Wanted" on May 1, 1999. The character was created and designed by marine biologist and animator Stephen Hillenburg.
+
+Krabs owns and operates the Krusty Krab, a prominent fast food restaurant located in the underwater city of Bikini Bottom. He resides in a hollow anchor with his daughter Pearl, who is a teenage sperm whale. Krabs is obsessed with money and dislikes spending it, but will go to great lengths to make Pearl happy. He tends to worry about his riches and neglect the needs of his employees, SpongeBob and Squidward. He is in a romantic relationship with Mrs. Puff and shares a rivalry with his former best friend Plankton, who owns a struggling restaurant called the Chum Bucket located across the street from the Krusty Krab.
